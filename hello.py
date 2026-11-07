@@ -1,1 +1,7 @@
-print("Hello GitHub!")
+print("      .--.")
+print("     /    \\")
+print("    |      |")
+print("     \\    /")
+print("      `--'")
+print("       ○")
+print("立冬了，要注意保暖！")
